@@ -1,0 +1,63 @@
+Job Title: Data Analyst
+Location: [On-site / Hybrid / Remote – City, Country]
+Department: Data & Analytics / Business Intelligence
+Employment Type: Full-time
+About the Role
+
+We are seeking a detail-oriented and analytical Data Analyst to join our team. The ideal candidate will transform raw data into actionable insights that drive strategic decisions. You will work closely with cross-functional teams to collect, process, and analyze data from various sources, helping the organization make data-driven decisions.
+
+Key Responsibilities
+
+Collect, clean, and validate data from multiple internal and external sources.
+
+Perform exploratory data analysis (EDA) to identify trends, patterns, and correlations.
+
+Develop dashboards and visual reports using tools like Power BI, Tableau, or Excel.
+
+Generate business insights and communicate findings to stakeholders through clear visualizations and presentations.
+
+Collaborate with product, marketing, finance, and operations teams to define data requirements and key performance indicators (KPIs).
+
+Automate recurring reports and optimize data workflows using Python, SQL, or R.
+
+Support A/B testing, predictive modeling, and ad hoc data requests.
+
+Maintain data integrity, ensure data governance, and document data processes.
+
+Required Skills & Qualifications
+
+Bachelor’s degree in Statistics, Computer Science, Mathematics, Economics, or a related field.
+
+1–3 years of experience as a Data Analyst, Business Analyst, or in a similar role.
+
+Strong knowledge of SQL for querying databases.
+
+Proficiency in Python (Pandas, NumPy, Matplotlib, Seaborn) or R for data manipulation and analysis.
+
+Experience with data visualization tools (Tableau, Power BI, or Looker).
+
+Solid understanding of data cleaning, transformation, and reporting techniques.
+
+Strong analytical and problem-solving abilities.
+
+Excellent communication skills — ability to explain data insights to non-technical stakeholders.
+
+Preferred Qualifications (Nice to Have)
+
+Experience with statistical modeling, machine learning basics, or predictive analytics.
+
+Familiarity with cloud platforms (AWS, Google BigQuery, or Azure Data Studio).
+
+Knowledge of ETL tools and data warehousing concepts.
+
+Exposure to business domains such as finance, marketing analytics, or operations.
+
+What We Offer
+
+Competitive salary and performance bonuses.
+
+Opportunity to work with modern data tools and technologies.
+
+Collaborative environment focused on learning and innovation.
+
+Flexible work arrangements and career growth opportunities.

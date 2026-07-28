@@ -1,0 +1,11 @@
+{
+  "_comment": "Section 5 - Connecting to Real AI Client. Merge this 'mcpServers' entry into your existing claude_desktop_config.json (Claude menu -> Settings -> Developer -> Edit Config). Requires 1_website_knowledge_server_master.py to use transport=\"stdio\" (see Option A in that file) instead of the SSE option used for the in-class client demo -- Claude Desktop launches the script itself, it does not connect to a running port.",
+  "mcpServers": {
+    "website-knowledge": {
+      "command": "python",
+      "args": [
+        "FULL_PATH_TO/1_website_knowledge_server_master.py"
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+Job Title: Data Scientist
+Location: [On-site / Hybrid / Remote – City, Country]
+Department: Data & AI / Analytics
+Employment Type: Full-time
+About the Role
+
+We are seeking an innovative and analytical Data Scientist to join our growing data team. You will be responsible for designing and implementing advanced analytics, machine learning models, and data-driven strategies to support decision-making across the organization. The ideal candidate combines strong statistical and programming skills with a passion for solving real-world business problems using data.
+
+Key Responsibilities
+
+Collect, clean, and analyze large structured and unstructured datasets from multiple sources.
+
+Build, train, and deploy machine learning and predictive models to support key business decisions.
+
+Perform exploratory data analysis (EDA) and uncover actionable insights.
+
+Develop data pipelines and automate model workflows using Python and cloud services.
+
+Collaborate with cross-functional teams (engineering, product, and marketing) to define data requirements and KPIs.
+
+Communicate technical results to non-technical stakeholders through clear visualizations and reports.
+
+Stay current with the latest developments in data science, AI, and analytics tools.
+
+Required Skills & Qualifications
+
+Bachelor’s/Master’s degree in Computer Science, Statistics, Mathematics, or related field.
+
+3–5 years of hands-on experience as a Data Scientist or in a similar role.
+
+Strong proficiency in Python (Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch).
+
+Experience with SQL and database management systems.
+
+Solid understanding of machine learning algorithms, feature engineering, and model evaluation.
+
+Familiarity with data visualization tools (Power BI, Tableau, or Matplotlib/Seaborn).
+
+Working knowledge of cloud platforms (AWS, Azure, or GCP).
+
+Excellent analytical, problem-solving, and communication skills.
+
+Preferred Qualifications (Nice to Have)
+
+Experience with deep learning or natural language processing (NLP).
+
+Knowledge of big data tools such as Spark or Databricks.
+
+Exposure to MLOps concepts and model deployment in production.
+
+Contributions to open-source projects or published research papers.
+
+What We Offer
+
+Competitive compensation and performance-based bonuses.
+
+Opportunity to work on real-world AI and machine learning projects.
+
+Flexible work options and collaborative team environment.
+
+Learning budget for certifications, conferences, and research.

@@ -1,0 +1,5 @@
+langchain
+pydantic
+pydantic-settings
+langchain-openai
+fastapi
