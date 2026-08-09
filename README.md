@@ -1,6 +1,5 @@
-# LearnWithSarvesh
 
-LearnWithSarvesh is a learning repository that collects notebooks, projects, workshops, and cohort material around Python, data science, LangChain, RAG, MCP, and multi-agent workflows.
+This is a learning repository that collects notebooks, projects, workshops, and cohort material around Python, data science, LangChain, RAG, MCP, and multi-agent workflows.
 
 ## Folder Structure
 
